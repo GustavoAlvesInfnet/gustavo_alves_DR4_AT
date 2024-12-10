@@ -1,0 +1,8 @@
+requests
+pandas
+matplotlib
+seaborn
+pyarrow
+
+langchain
+langchain_groq
